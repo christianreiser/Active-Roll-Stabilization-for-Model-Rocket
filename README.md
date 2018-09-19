@@ -1,2 +1,2 @@
 # Active-Roll-Stabilization-for-Model-Rocket
-stabilize model rocket with canards
+Stabilize model rocket with canards.
